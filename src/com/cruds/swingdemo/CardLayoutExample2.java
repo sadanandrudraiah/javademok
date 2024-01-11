@@ -10,6 +10,7 @@ import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
 public class CardLayoutExample2 extends JFrame {
+	// added more functionality
     private JPanel cardPanel;
     private CardLayout cardLayout;
 
